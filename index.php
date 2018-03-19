@@ -1,3 +1,3 @@
 <?php
-	echo heloo;
+	echo "hello moto";
 ?>
